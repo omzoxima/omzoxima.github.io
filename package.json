@@ -1,0 +1,19 @@
+{
+  "name": "omzoxima.github.io",
+  "version": "1.0.0",
+  "description": "This is for superhero Hunter App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omzoxima/omzoxima.github.io.git"
+  },
+  "author": "Om",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omzoxima/omzoxima.github.io/issues"
+  },
+  "homepage": "https://github.com/omzoxima/omzoxima.github.io#readme"
+}
